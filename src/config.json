@@ -1,0 +1,11 @@
+{
+  "SERVER":{
+    "PROTOCOL":"https",
+    "ADDRESSES":[
+      "japheth.ca",
+      "faithfulword.app"
+    ],
+    "CHOSEN_ADDRESS":0,
+    "PORT":null
+  }
+}
