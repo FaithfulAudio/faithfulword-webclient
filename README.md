@@ -2,10 +2,10 @@
 
 ## Docker
 ```
- docker build -t client .
- ```
- ```
- docker run -it -p 8082:8080 --rm --name client
+docker build -t client .
+```
+```
+docker run -it -p 8082:8080 --rm --name client
 ```
 ## Project setup
 ```
