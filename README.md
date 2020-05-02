@@ -1,5 +1,12 @@
 # client
 
+## Docker
+```
+docker build -t client .
+```
+```
+docker run -it -p 8082:8080 --rm --pid=host client
+```
 ## Project setup
 ```
 npm install
